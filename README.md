@@ -1,4 +1,4 @@
-## bash_examples
+## Bash_examples
 
 Script for searching hosts in subnets
 
