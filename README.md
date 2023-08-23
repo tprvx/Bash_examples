@@ -1,6 +1,6 @@
 ## bash_examples
 
-Скрипт поиска хостов подсетях
+Script for searching hosts in subnets
 
 ### Usage
 
